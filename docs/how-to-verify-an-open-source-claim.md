@@ -50,4 +50,4 @@ Four checks answer a publication question. They do not answer whether the publis
 
 What the checks give a buyer is a habit. Ask for the URL. Ask which layer it covers. Ask when it was last true. A vendor that answers all three is easy to work with, and a vendor that answers none has told you something useful too.
 
-Kortix is the open-source AI Operating System. One isolated sandbox per session. Each session has its own isolated machine and branch, and session work reaches `main` through a change request a person merges. The layers that decide are open to read at [kortix.com](https://kortix.com).
+Kortix is the open-source CompanyOS. One isolated sandbox per session. Each session has its own isolated machine and branch, and session work reaches `main` through a change request a person merges. The layers that decide are open to read at [kortix.com](https://kortix.com).
