@@ -44,4 +44,4 @@ The boundary moves. A router can be published, a repository can be archived, a h
 
 The audit in this repository is built for that rhythm. Each layer carries a source URL and a checked date, the run records what each URL returned, and the diff mode compares a fresh run with a snapshot you kept. A change in the boundary appears as a changed line rather than as a surprise in a renewal meeting.
 
-Kortix is the open-source AI Operating System. Run it on Kortix Cloud, in your VPC, or on your own on-prem network. Self-host is free. The deciding layers sit in the repository the team holds, at [kortix.com](https://kortix.com).
+Kortix is the open-source CompanyOS. Run it on Kortix Cloud, in your VPC, or on your own on-prem network. Self-host is free. The deciding layers sit in the repository the team holds, at [kortix.com](https://kortix.com).
