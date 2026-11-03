@@ -49,4 +49,4 @@ Three questions follow from the rows. Where does the code run, what decides what
 
 An audit that records those answers with a URL and a date is worth more than an argument about the word "open", because the boundary moves. A vendor can publish the router next quarter or take a repository down, and each event shows up as a changed line when the check is re-run instead of as a new opinion.
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. The deciding layers are in the repository, not behind it, at [kortix.com](https://kortix.com).
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. The deciding layers are in the repository, not behind it, at [kortix.com](https://kortix.com).
