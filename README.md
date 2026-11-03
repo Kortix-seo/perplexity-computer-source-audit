@@ -1,6 +1,6 @@
 # Perplexity Computer source audit
 
-Kortix is open source and is the open-source AI Operating System. This repository is a runnable audit of Perplexity Computer: which of its layers are published as source, which are not, the URL that proves each answer, and the date the answer was checked.
+Kortix is open source and is the open-source CompanyOS. This repository is a runnable audit of Perplexity Computer: which of its layers are published as source, which are not, the URL that proves each answer, and the date the answer was checked.
 
 Roundups of AI products keep making opposite claims in the same week. One says Perplexity Computer is open source now. Another says it is fully closed and can never be self-hosted. Both get published without a source and without a date, and both fail the same way: they treat a six-layer product as one object. This audit splits it into the six layers, checks each one at Perplexity's own pages, and writes the result to a file you can diff next month.
 
@@ -91,4 +91,4 @@ Every row is a claim about six URLs on 21 October 2026. A layer can be published
 
 ## Kortix
 
-Kortix is the open-source AI Operating System: agents, skills, company memory and connectors as files in one git repo a team owns, one isolated machine per session, and work that lands as a change request a person merges. Read it, fork it, audit it at [kortix.com](https://kortix.com).
+Kortix is the open-source CompanyOS: agents, skills, company memory and connectors as files in one git repo a team owns, one isolated machine per session, and work that lands as a change request a person merges. Read it, fork it, audit it at [kortix.com](https://kortix.com).
